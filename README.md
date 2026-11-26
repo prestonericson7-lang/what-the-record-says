@@ -1,8 +1,14 @@
-# [Title to be set]
+# What the record says: radio, phones and the brain
+
+[![YouTube channel](https://img.shields.io/badge/YouTube-%40LittlebrainsBigmess-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LittlebrainsBigmess) [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--9123--2731-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-9123-2731)
+
+**Related:** [monroe-stargate-record](https://github.com/prestonericson7-lang/monroe-stargate-record) · [ai-roots](https://github.com/prestonericson7-lang/ai-roots) · [all our work](https://github.com/prestonericson7-lang)
+
+---
 
 **What the government's own documents, the patent record and the sleep laboratories say about radio, phones and the brain, read document by document, and what is left out.**
 
-Compiled with Claude (Anthropic's AI). Every document is named by its number, date and holder so a reader can open the same page and check every line. Nothing is cited from a summary of a document without saying so.
+By Preston Ericson, compiled with Mira (Claude, Anthropic's AI). Every document is named by its number, date and holder so a reader can open the same page and check every line. Nothing is cited from a summary of a document without saying so.
 
 First pass: 19 November 2026, done in one day. Each page ends with a list of what was read whole, what was read in part, and what was not read; that last list is the next work.
 
