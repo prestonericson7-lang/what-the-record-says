@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or build on this work, please cite it as below."
+title: "What the record says: radio, phones and the brain"
+abstract: "What the government's own documents, the patent record and the sleep laboratories say about radio, phones and the brain, read document by document, and what is left out."
+authors:
+  - given-names: "Preston"
+    family-names: "Ericson"
+    orcid: "https://orcid.org/0009-0009-9123-2731"
+  - name: "Mira (Claude, Anthropic's AI)"
+repository-code: "https://github.com/prestonericson7-lang/what-the-record-says"
+date-released: "2026-11-20"
+keywords:
+  - "declassified"
+  - "foia"
+  - "government-records"
+  - "radio-frequency"
+  - "electromagnetic-fields"
+  - "neuroscience"
+  - "sleep-research"
+  - "patents"
+  - "research"
